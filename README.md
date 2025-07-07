@@ -2,6 +2,8 @@
 # Conditional Profile Card
 <!--endhide-->
 
+Link: https://github.com/4GeeksAcademy/dev-ecg-conditional-profile-card
+
 **Note:** If you are working locally, make sure that you have node.js installed in your computer by typing in your terminal:
 
 ```bash
